@@ -21,6 +21,3 @@ class web():
     def get_entrar(self,entrar):
         self.entrar = entrar
         
-print(input("Introduce tu correo:"))
-web.get_correo("correo")
-web.get_entrar("entrar")

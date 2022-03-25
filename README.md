@@ -2,7 +2,7 @@
 
 ## Repositorio:
 
-El link del repositorio es https://github.com/Barroso03/Ejercicios_de_agregacion_composicion.git
+El link del repositorio es https://github.com/Barroso03/Excepciones_POO.git
 
 
 
